@@ -1,0 +1,20 @@
+a {
+    background-color: #6acc00;
+    display: inline-block;
+    padding: 13px 18px;
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 20px;
+    color: #F9F5F6;
+}
+
+p {
+    background-color: #A0C49D;
+    display: inline-block;
+    border: 3px solid #9376E0;
+    padding: 10px 75px;
+    font-family: cursive;
+    font-size: 20px;
+    color: #F6FFDE;
+    border-radius: 30px;
+}
